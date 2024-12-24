@@ -12,3 +12,5 @@
 root@sss-VMware:~# docker container port e2dcf2f71715bf66252620d1d409c1ffabccf6781b0fcc0dbdc04a861e218073
 80/tcp -> 0.0.0.0:80
 80/tcp -> [::]:80.
+Перепривязать контейнер на 81 порт.
+# Задача 4
