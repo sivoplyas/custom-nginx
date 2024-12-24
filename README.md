@@ -6,3 +6,5 @@
 
 # Задача 3
 В интрактивнор режитме работы при нажатии CTRL+C послал команду остановиться - контенер остановился.
+
+![zadacha3](https://github.com/user-attachments/assets/8baa582b-4aeb-419b-8fda-63c05584cdc6)
