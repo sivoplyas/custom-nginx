@@ -1,4 +1,3 @@
-
 #Задача 1
 ![zadacha1](https://hub.docker.com/repository/docker/sivoplyas/custom-nginx)
 
